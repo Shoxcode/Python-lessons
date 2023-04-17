@@ -1,0 +1,13 @@
+print("hello world")
+print("Nima gapla bovotimi\n o'zi nima gap qalesan")
+print("Assalamu aleykum")
+print("Men \"Nexia\" sotib oldim")
+print("""eOdamni demagil qoysanga iklopa
+sdemagil oni jondan ortioq loyqai devona""")
+print('Assalamu aleykum')
+print(2*2/5)
+print("To'qqizning kvadrati", 9**2, 'ga tengdir')
+print("oni demagil", 15/4, 'qanchalar exciting')
+print(15/4)
+print(15//4)
+print(16**4)
